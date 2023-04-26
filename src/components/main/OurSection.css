@@ -1,0 +1,19 @@
+.menu__h2 {
+    line-height: 48px;
+    text-transform: capitalize;
+    color: #BB2339;
+}
+
+.menu__btn {
+    border: 1px solid #BB2339;
+    border-radius: 100px;
+}
+
+.menu__btn:nth-child(2) {
+    background: #BB2339 !important;
+    color: #fff;
+}
+
+.menu__cards {
+    row-gap: 20px;
+}

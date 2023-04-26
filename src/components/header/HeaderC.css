@@ -1,0 +1,45 @@
+.nav-menu {
+    justify-content: flex-end !important;
+}
+
+.full-header {
+    background: #BB2339;
+    color: white;
+}
+
+.nav-link {
+    color: white !important;
+    text-transform: capitalize;
+}
+
+.login-btn {
+    border: 2px solid #fff;
+    padding: 5px 20px;
+    border-radius: 15px;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+}
+
+.hiro {
+    padding-top: 80px;
+    padding-bottom: 200px;
+    row-gap: 70px;
+}
+
+.hiro__text-btn {
+    width: 35%;
+}
+
+@media screen and (max-width:992px) {
+    .hiro__text-btn {
+        width: 100%;
+    }
+}
+
+.hiro__img {
+    max-width: 800px;
+}
+
+.hiro__img-img {
+    width: 100%;
+}
